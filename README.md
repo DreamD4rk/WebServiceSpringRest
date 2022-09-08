@@ -4,3 +4,5 @@ Proyecto desarrolado en Java que aplica Spring Web MVC, que realiza Servicios RE
 -Tipo JSON
 -Apache Maven
 -Conectado con base de datos MySQL Workbench
+Agregar en el archivo "application.properties" spring.datasource.username="tu usuario" y spring.datasource.password="tu contraseña" 
+para que pueda realizar la conexión a la BD.
